@@ -22,6 +22,12 @@ function Typography() {
       <h4 className=" italic font-[1000]">Ankit Anand</h4>
       {/* font varinats */}
       <p className="diagonal-fractions">1/2</p>
+
+      {/* background */}
+      <div>
+        <div className=" bg-png w-60 h-40 bg-no-repeat bg-cover bg-fixed"></div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit soluta porro nobis sunt nulla quae dolorum, dolor dolore maiores, incidunt impedit voluptatibus ex sequi quasi, odit optio? Maiores praesentium quia sequi commodi esse quas. Animi repudiandae eaque reiciendis amet sapiente eveniet nulla, atque fugit soluta? Pariatur vero error voluptate eos dolores quae, tempore amet aliquid dolorem iusto impedit, placeat provident debitis asperiores voluptatum deserunt esse earum non voluptatem doloremque. Ab eum officia, perspiciatis ratione praesentium magni quas a vel dignissimos maxime incidunt iusto sapiente nisi laudantium mollitia fuga alias totam omnis accusantium! Corporis aspernatur praesentium molestias sapiente eius ut enim? Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto doloremque nesciunt totam est quia reiciendis hic dolor ad fugit laborum mollitia debitis vitae magnam omnis saepe accusamus quibusdam, magni dolores soluta! Vitae libero cumque esse eius ea nemo quod, dolor quos quasi quidem rem optio accusamus modi facilis eaque corporis voluptates velit placeat et sunt! Excepturi commodi voluptates possimus aut incidunt fugiat? Velit, at non nemo cumque explicabo quibusdam praesentium earum harum odit neque minima ex corporis ipsum, numquam voluptatum aspernatur deleniti laudantium iure repudiandae. Quos sapiente repellat quam praesentium.</p>
+      </div>
     </div>
   );
 }

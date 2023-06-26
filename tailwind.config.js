@@ -30,6 +30,9 @@ module.exports = {
       fontFamily:{
         my:"'Concert One', cursive",
         my2:"'Noto Sans TC', sans-serif"
+      },
+      backgroundImage:{
+        png:"url('https://tse2.mm.bing.net/th?id=OIP.sgLfJanMw_j7bIkff83sXQHaFj&pid=Api&P=0&h=180')"
       }
     },
   },
