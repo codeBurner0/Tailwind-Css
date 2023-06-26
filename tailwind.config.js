@@ -32,7 +32,7 @@ module.exports = {
         my2:"'Noto Sans TC', sans-serif"
       },
       backgroundImage:{
-        png:"url('https://tse2.mm.bing.net/th?id=OIP.sgLfJanMw_j7bIkff83sXQHaFj&pid=Api&P=0&h=180')"
+        png:"url('https://tse4.mm.bing.net/th?id=OIP.k7lXOMtjD4mbrPfdg1ta1QHaEK&pid=Api&P=0&h=180')"
       }
     },
   },
